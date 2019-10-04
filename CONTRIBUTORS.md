@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rocco Scinto](https://github.com/rscinto)
+- Place: Petaluma, California
+- Bio: C++, Java. 
+- Github: [rscinto](https://github.com/rscinto)
